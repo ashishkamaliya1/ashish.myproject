@@ -1,0 +1,8 @@
+.containerr{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+}
+.card{
+    height: 200px;
+}
